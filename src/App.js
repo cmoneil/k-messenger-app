@@ -239,7 +239,7 @@ const App = () => {
 							</Grid>
 							<Grid item xs={6}>
 								<FormControl className={classes.formControl}>
-									<Tooltip title='Accepted variables are FirstName, LastName, RoomNumber, Company, or City.'>
+									<Tooltip title='Accepted variables are FirstName, LastName, RoomNumber, Company, City, StartDate, StartTime, EndDate, or EndTime.'>
 										<TextField
 											value={customTemplate || ''}
 											disabled={!!selectedTemplate}
