@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/k-messenger-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/k-messenger-app/static/js/main.79f888ae.chunk.js",
+    "main.js.map": "/k-messenger-app/static/js/main.79f888ae.chunk.js.map",
+    "runtime-main.js": "/k-messenger-app/static/js/runtime-main.0a468e9f.js",
+    "runtime-main.js.map": "/k-messenger-app/static/js/runtime-main.0a468e9f.js.map",
+    "static/js/2.ec0caddb.chunk.js": "/k-messenger-app/static/js/2.ec0caddb.chunk.js",
+    "static/js/2.ec0caddb.chunk.js.map": "/k-messenger-app/static/js/2.ec0caddb.chunk.js.map",
+    "index.html": "/k-messenger-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/k-messenger-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ec0caddb.chunk.js.LICENSE.txt": "/k-messenger-app/static/js/2.ec0caddb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a468e9f.js",
+    "static/js/2.ec0caddb.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.79f888ae.chunk.js"
+  ]
+}

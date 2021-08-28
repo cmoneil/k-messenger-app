@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Your room is ready",
+    "template": "Greeting FirstName LastName. Room RoomNumber at Company in City is ready."
+   
+  },
+  {
+    "id": 2,
+    "name": "Your check-in time is",
+    "template": "Greeting FirstName LastName. Your check-in time for room RoomNumber at Company is StartDate at StartTime."
+   
+  },
+  {
+    "id": 3,
+    "name": "Your checkout time is",
+    "template": "Greeting FirstName LastName. Your checkout time for room RoomNumber at Company is EndDate at EndTime"
+   
+  },
+  {
+    "id": 4,
+    "name": "Thank you for staying with us",
+    "template": "Greeting FirstName LastName. Thank you for staying with us at Company in City!"
+   
+  }
+]
